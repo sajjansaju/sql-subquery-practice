@@ -6,8 +6,8 @@ This repository contains a fully structured PostgreSQL dataset designed for hand
 
 - `retaildb_schema.sql` – SQL script to create and populate the database
 - `retaildb_queries.sql` – A set of 17 SQL queries demonstrating advanced SQL techniques
+- `retaildb_chen_erd_cardinality.png` – Entity-Relationship Diagram (Chen's Notation with cardinality)
 - `README.md` – Project overview and instructions
-
 ---
 
 ## 🧱 Database Schema
