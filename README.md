@@ -1,4 +1,4 @@
-# 🛒 RetailDB SQL Practice Project
+# 🛒 RetailDB SQL  Project
 
 This repository contains a fully structured PostgreSQL dataset designed for hands-on practice with SQL concepts such as **joins**, **subqueries (correlated & uncorrelated)**, **aggregations**, and **filtering**. It includes a `RetailDB` schema simulating a simple e-commerce business with customers, orders, products, categories, and payments.
 
