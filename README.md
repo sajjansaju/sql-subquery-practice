@@ -21,4 +21,18 @@ The project includes 6 core tables:
 - `order_items` – Line items in each order
 - `payments` – Payment details for orders
 
-ERD Overview:
+
+## 🧩 Entity-Relationship Diagram (ERD)
+
+The following ERD (Chen's Notation with cardinality) illustrates how the tables in the RetailDB schema are related:
+
+![RetailDB Chen ERD with Cardinality](retaildb_chen_erd_cardinality.png)
+
+### 📝 Diagram Notes:
+- A **Customer** can place **many Orders**
+- An **Order** can include **many Order Items**
+- Each **Order Item** refers to **one Product**
+- A **Product** belongs to **one Category**
+- Each **Order** is associated with **one Payment**
+
+This visualization helps understand the relationships and cardinalities between entities, which is especially useful when working with joins and subqueries.
