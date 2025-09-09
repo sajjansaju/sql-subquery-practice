@@ -36,3 +36,28 @@ The following ERD (Chen's Notation with cardinality) illustrates how the tables 
 - Each **Order** is associated with **one Payment**
 
 This visualization helps understand the relationships and cardinalities between entities, which is especially useful when working with joins and subqueries.
+
+
+
+## ✅ SQL Challenges Covered
+
+| #   | Description                                                                 |
+|-----|-----------------------------------------------------------------------------|
+| 1️⃣  | Orders with total amount > average order total                             |
+| 2️⃣  | Order items priced above product’s average price                           |
+| 3️⃣  | Customers with more than one order                                          |
+| 4️⃣  | Products priced above average                                               |
+| 5️⃣  | Most expensive order per customer                                           |
+| 6️⃣  | Active products never ordered                                               |
+| 7️⃣  | Customers with paid orders in April 2024                                    |
+| 8️⃣  | Orders including “Accessories” category products                            |
+| 9️⃣  | Best-selling product per category                                           |
+| 🔟  | Category with the highest total revenue                                     |
+| 1️⃣1️⃣ | Customers with AOV > global AOV                                             |
+| 1️⃣2️⃣ | Customers with orders but no paid/shipped ones                             |
+| 1️⃣3️⃣ | Orders where paid amount < item total                                       |
+| 1️⃣4️⃣ | Top 3 cities by total revenue                                               |
+| 1️⃣5️⃣ | Orders with quantity > average for product                                  |
+| 1️⃣6️⃣ | Customers who signed up before 2024-03-01 and ordered after                 |
+| 1️⃣7️⃣ | Orders matching the highest order total                                     |
+
